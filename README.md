@@ -1,6 +1,6 @@
-# TABLEAU in progress
+# TABLEAU
 
-Here you'll find a Sales and HR dashboard in Tableau. 
+Here you'll find a Sales and HR dashboard in Tableau, despite of I'm more skilled in Power BI
 
 ### SALES DASHBOARD WITH SOME KPIS (Sales file):
 
